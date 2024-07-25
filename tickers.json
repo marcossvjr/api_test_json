@@ -23,5 +23,6 @@
   {"BRAP4":{"indicators":{"VPA":"20,90","LPA":"3,74","DIVIDEND YIELD":"16,05%","ROE":"17,91%"}}},
   {"TAEE4":{"indicators":{"VPA":"6,83","LPA":"1,31","DIVIDEND YIELD":"10,91%","ROE":"19,20%"}}},
   {"GOAU4":{"indicators":{"VPA":"17,13","LPA":"2,08","DIVIDEND YIELD":"13,66%","ROE":"12,16%"}}},
-  {"PSSA3":{"indicators":{"VPA":"19,34","LPA":"3,98","DIVIDEND YIELD":"5,11%","ROE":"20,59%"}}}
+  {"PSSA3":{"indicators":{"VPA":"19,34","LPA":"3,98","DIVIDEND YIELD":"5,11%","ROE":"20,59%"}}},
+  {"NGRD3":{"indicators":{"VPA":"1,96","LPA":"-0,02","DIVIDEND YIELD":"0,49%","ROE":"-0,95%"}}}
 ]
