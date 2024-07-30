@@ -3,7 +3,7 @@
 		"BBAS3":{
 			"companyName":"BANCO DO BRASIL",
 			"indicators":{
-				"DIVIDEND YIELD":"8,91%",
+				"DIVIDEND YIELD":"8,90%",
 				"LPA":"5,71",
 				"ROE":"18,73%",
 				"VPA":"30,49"
@@ -14,7 +14,7 @@
 		"BBSE3":{
 			"companyName":"BB SEGURIDADE",
 			"indicators":{
-				"DIVIDEND YIELD":"8,24%",
+				"DIVIDEND YIELD":"8,22%",
 				"LPA":"4,07",
 				"ROE":"67,70%",
 				"VPA":"6,01"
@@ -25,7 +25,7 @@
 		"BMGB4":{
 			"companyName":"BANCO BMG S.A",
 			"indicators":{
-				"DIVIDEND YIELD":"15,05%",
+				"DIVIDEND YIELD":"15,13%",
 				"LPA":"0,56",
 				"ROE":"7,76%",
 				"VPA":"7,21"
@@ -36,7 +36,7 @@
 		"BRAP4":{
 			"companyName":"BRADESPAR",
 			"indicators":{
-				"DIVIDEND YIELD":"15,99%",
+				"DIVIDEND YIELD":"16,09%",
 				"LPA":"3,74",
 				"ROE":"17,91%",
 				"VPA":"20,90"
@@ -47,7 +47,7 @@
 		"BRSR6":{
 			"companyName":"BANCO BANRISUL",
 			"indicators":{
-				"DIVIDEND YIELD":"5,23%",
+				"DIVIDEND YIELD":"5,28%",
 				"LPA":"2,45",
 				"ROE":"10,04%",
 				"VPA":"24,43"
@@ -58,7 +58,7 @@
 		"CMIG4":{
 			"companyName":"CEMIG",
 			"indicators":{
-				"DIVIDEND YIELD":"12,61%",
+				"DIVIDEND YIELD":"12,42%",
 				"LPA":"1,93",
 				"ROE":"21,72%",
 				"VPA":"8,88"
@@ -80,7 +80,7 @@
 		"CSAN3":{
 			"companyName":"COSAN",
 			"indicators":{
-				"DIVIDEND YIELD":"3,30%",
+				"DIVIDEND YIELD":"3,36%",
 				"LPA":"0,96",
 				"ROE":"8,74%",
 				"VPA":"11,03"
@@ -91,7 +91,7 @@
 		"CSMG3":{
 			"companyName":"COPASA",
 			"indicators":{
-				"DIVIDEND YIELD":"16,55%",
+				"DIVIDEND YIELD":"16,34%",
 				"LPA":"3,66",
 				"ROE":"17,97%",
 				"VPA":"20,39"
@@ -102,7 +102,7 @@
 		"CXSE3":{
 			"companyName":"CAIXA SEGURIDADE",
 			"indicators":{
-				"DIVIDEND YIELD":"7,28%",
+				"DIVIDEND YIELD":"7,18%",
 				"LPA":"1,20",
 				"ROE":"26,79%",
 				"VPA":"4,48"
@@ -113,7 +113,7 @@
 		"GOAU4":{
 			"companyName":"METALURGICA GERDAU",
 			"indicators":{
-				"DIVIDEND YIELD":"13,47%",
+				"DIVIDEND YIELD":"13,53%",
 				"LPA":"2,08",
 				"ROE":"12,16%",
 				"VPA":"17,13"
@@ -124,7 +124,7 @@
 		"ITSA4":{
 			"companyName":"ITAUSA INVESTIMENTOS ITAU S.A.",
 			"indicators":{
-				"DIVIDEND YIELD":"7,84%",
+				"DIVIDEND YIELD":"7,81%",
 				"LPA":"1,37",
 				"ROE":"17,58%",
 				"VPA":"7,79"
@@ -135,7 +135,7 @@
 		"ITUB4":{
 			"companyName":"BANCO ITAU UNIBANCO",
 			"indicators":{
-				"DIVIDEND YIELD":"6,85%",
+				"DIVIDEND YIELD":"6,80%",
 				"LPA":"3,63",
 				"ROE":"19,17%",
 				"VPA":"18,93"
@@ -146,10 +146,10 @@
 		"KLBN4":{
 			"companyName":"KLABIN S.A.",
 			"indicators":{
-				"DIVIDEND YIELD":"5,47%",
-				"LPA":"0,32",
-				"ROE":"17,29%",
-				"VPA":"1,83"
+				"DIVIDEND YIELD":"5,30%",
+				"LPA":"0,26",
+				"ROE":"17,03%",
+				"VPA":"1,52"
 			}
 		}
 	},
@@ -157,7 +157,7 @@
 		"NEOE3":{
 			"companyName":"NEOENERGIA",
 			"indicators":{
-				"DIVIDEND YIELD":"5,23%",
+				"DIVIDEND YIELD":"5,17%",
 				"LPA":"3,67",
 				"ROE":"14,11%",
 				"VPA":"26,04"
@@ -168,7 +168,7 @@
 		"PETR4":{
 			"companyName":"PETROLEO BRASILEIRO S.A. PETROBRAS",
 			"indicators":{
-				"DIVIDEND YIELD":"16,84%",
+				"DIVIDEND YIELD":"17,18%",
 				"LPA":"8,44",
 				"ROE":"27,02%",
 				"VPA":"31,25"
@@ -179,7 +179,7 @@
 		"PSSA3":{
 			"companyName":"PORTO SEGURO",
 			"indicators":{
-				"DIVIDEND YIELD":"5,08%",
+				"DIVIDEND YIELD":"5,07%",
 				"LPA":"3,98",
 				"ROE":"20,59%",
 				"VPA":"19,34"
@@ -190,7 +190,7 @@
 		"SANB4":{
 			"companyName":"BANCO SANTANDER",
 			"indicators":{
-				"DIVIDEND YIELD":"5,70%",
+				"DIVIDEND YIELD":"5,64%",
 				"LPA":"1,27",
 				"ROE":"8,21%",
 				"VPA":"15,41"
@@ -223,7 +223,7 @@
 		"TASA4":{
 			"companyName":"TAURUS ARMAS",
 			"indicators":{
-				"DIVIDEND YIELD":"3,44%",
+				"DIVIDEND YIELD":"3,53%",
 				"LPA":"1,08",
 				"ROE":"12,09%",
 				"VPA":"8,91"
@@ -234,7 +234,7 @@
 		"TRPL4":{
 			"companyName":"CTEEP - CIA TRANSMISSÃO ENERGIA ELÉTRICA PAULISTA",
 			"indicators":{
-				"DIVIDEND YIELD":"8,93%",
+				"DIVIDEND YIELD":"8,89%",
 				"LPA":"4,15",
 				"ROE":"14,77%",
 				"VPA":"28,11"
@@ -245,7 +245,7 @@
 		"VALE3":{
 			"companyName":"VALE",
 			"indicators":{
-				"DIVIDEND YIELD":"11,37%",
+				"DIVIDEND YIELD":"11,35%",
 				"LPA":"10,74",
 				"ROE":"23,72%",
 				"VPA":"45,26"
@@ -256,10 +256,10 @@
 		"VIVT3":{
 			"companyName":"VIVO - TELEFÔNICA BRASIL",
 			"indicators":{
-				"DIVIDEND YIELD":"4,20%",
-				"LPA":"3,08",
-				"ROE":"7,41%",
-				"VPA":"41,59"
+				"DIVIDEND YIELD":"4,23%",
+				"LPA":"3,14",
+				"ROE":"7,51%",
+				"VPA":"41,80"
 			}
 		}
 	}
