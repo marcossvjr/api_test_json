@@ -121,6 +121,17 @@
         }
     },
     {
+        "EGIE3": {
+            "companyName": "ENGIE BRASIL",
+            "indicators": {
+                "DIVIDEND YIELD": "6,61%",
+                "LPA": "5,10",
+                "ROE": "38,51%",
+                "VPA": "13,23"
+            }
+        }
+    },
+    {
         "GOAU4": {
             "companyName": "METALURGICA GERDAU",
             "indicators": {
