@@ -66,6 +66,17 @@
         }
     },
     {
+        "CMIN3": {
+            "companyName": "CSN MINERAÇÃO S.A.",
+            "indicators": {
+                "DIVIDEND YIELD": "15,76%",
+                "LPA": "0,71",
+                "ROE": "43,27%",
+                "VPA": "1,63"
+            }
+        }
+    },
+    {
         "CPLE6": {
             "companyName": "COPEL",
             "indicators": {
@@ -150,6 +161,28 @@
                 "LPA": "3,98",
                 "ROE": "19,38%",
                 "VPA": "20,54"
+            }
+        }
+    },
+    {
+        "JHSF3": {
+            "companyName": "JHSF",
+            "indicators": {
+                "DIVIDEND YIELD": "7,57%",
+                "LPA": "0,91",
+                "ROE": "11,73%",
+                "VPA": "7,75"
+            }
+        }
+    },
+    {
+        "KEPL3": {
+            "companyName": "KEPLER WEBER",
+            "indicators": {
+                "DIVIDEND YIELD": "9,29%",
+                "LPA": "1,35",
+                "ROE": "32,18%",
+                "VPA": "4,20"
             }
         }
     },
