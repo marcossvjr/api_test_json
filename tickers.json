@@ -88,6 +88,12 @@
         }
     },
     {
+        "CPTS11": {
+            "companyName": "CAPITANIA SECURITIES II",
+            "indicators": {}
+        }
+    },
+    {
         "CSAN3": {
             "companyName": "COSAN",
             "indicators": {
@@ -140,6 +146,12 @@
                 "ROE": "8,70%",
                 "VPA": "18,30"
             }
+        }
+    },
+    {
+        "HGLG11": {
+            "companyName": "CSHG LOGÍSTICA",
+            "indicators": {}
         }
     },
     {
@@ -209,6 +221,24 @@
         }
     },
     {
+        "KNCR11": {
+            "companyName": "KINEA RENDIMENTOS IMOBILIÁRIOS FUNDOS",
+            "indicators": {}
+        }
+    },
+    {
+        "KNRI11": {
+            "companyName": "KINEA RENDA IMOBILIÁRIA",
+            "indicators": {}
+        }
+    },
+    {
+        "MXRF11": {
+            "companyName": "MAXI RENDA",
+            "indicators": {}
+        }
+    },
+    {
         "NEOE3": {
             "companyName": "NEOENERGIA",
             "indicators": {
@@ -239,6 +269,12 @@
                 "ROE": "19,84%",
                 "VPA": "20,75"
             }
+        }
+    },
+    {
+        "RZTR11": {
+            "companyName": "RIZA TERRAX",
+            "indicators": {}
         }
     },
     {
@@ -308,6 +344,12 @@
         }
     },
     {
+        "VGHF11": {
+            "companyName": "VALORA HEDGE",
+            "indicators": {}
+        }
+    },
+    {
         "VIVT3": {
             "companyName": "VIVO - TELEFÔNICA BRASIL",
             "indicators": {
@@ -316,6 +358,12 @@
                 "ROE": "7,80%",
                 "VPA": "41,77"
             }
+        }
+    },
+    {
+        "XPLG11": {
+            "companyName": "XP LOG",
+            "indicators": {}
         }
     }
 ]
