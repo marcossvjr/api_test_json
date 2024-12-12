@@ -1,5 +1,11 @@
 [
     {
+        "ALZR11": {
+            "companyName": "ALIANZA TRUST RENDA IMOBILIÁRIA",
+            "indicators": {}
+        }
+    },
+    {
         "BBAS3": {
             "companyName": "BANCO DO BRASIL",
             "indicators": {
@@ -363,6 +369,12 @@
     {
         "XPLG11": {
             "companyName": "XP LOG",
+            "indicators": {}
+        }
+    },
+    {
+        "XPML11": {
+            "companyName": "XP MALLS FUNDOS",
             "indicators": {}
         }
     }
