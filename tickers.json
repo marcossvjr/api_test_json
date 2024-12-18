@@ -17,6 +17,17 @@
         }
     },
     {
+        "BBDC4": {
+            "companyName": "BANCO BRADESCO",
+            "indicators": {
+                "DIVIDEND YIELD": "12,59%",
+                "LPA": "1,37",
+                "ROE": "8,70%",
+                "VPA": "15,70"
+            }
+        }
+    },
+    {
         "BBSE3": {
             "companyName": "BB SEGURIDADE",
             "indicators": {
