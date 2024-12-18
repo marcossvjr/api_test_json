@@ -144,6 +144,17 @@
         }
     },
     {
+        "FIQE3": {
+            "companyName": "UNIFIQUE",
+            "indicators": {
+                "DIVIDEND YIELD": "6,07%",
+                "LPA": "0,48",
+                "ROE": "14,81%",
+                "VPA": "3,23"
+            }
+        }
+    },
+    {
         "GOAU4": {
             "companyName": "METALURGICA GERDAU",
             "indicators": {
