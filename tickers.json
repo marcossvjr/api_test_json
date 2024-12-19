@@ -144,6 +144,17 @@
         }
     },
     {
+        "DESK3": {
+            "companyName": "DESKTOP",
+            "indicators": {
+                "DIVIDEND YIELD": "0,41%",
+                "LPA": "0,81",
+                "ROE": "7,03%",
+                "VPA": "11,49"
+            }
+        }
+    },
+    {
         "EGIE3": {
             "companyName": "ENGIE BRASIL",
             "indicators": {
