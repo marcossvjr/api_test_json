@@ -205,10 +205,21 @@
         }
     },
     {
+        "GGBR4": {
+            "companyName": "GERDAU",
+            "indicators": {
+                "DIVIDEND YIELD": "5,31%",
+                "LPA": "2,20",
+                "ROE": "7,88%",
+                "VPA": "27,88"
+            }
+        }
+    },
+    {
         "GOAU4": {
             "companyName": "METALURGICA GERDAU",
             "indicators": {
-                "DIVIDEND YIELD": "5,42%",
+                "DIVIDEND YIELD": "5,36%",
                 "LPA": "1,55",
                 "ROE": "7,71%",
                 "VPA": "20,04"
