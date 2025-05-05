@@ -9,7 +9,7 @@
         "BBAS3": {
             "companyName": "BANCO DO BRASIL",
             "indicators": {
-                "DIVIDEND YIELD": "9,37%",
+                "DIVIDEND YIELD": "9,01%",
                 "LPA": "4,60",
                 "ROE": "14,67%",
                 "VPA": "31,34"
@@ -20,10 +20,10 @@
         "BBDC4": {
             "companyName": "BANCO BRADESCO",
             "indicators": {
-                "DIVIDEND YIELD": "10,54%",
-                "LPA": "1,62",
+                "DIVIDEND YIELD": "9,99%",
+                "LPA": "1,63",
                 "ROE": "10,24%",
-                "VPA": "15,82"
+                "VPA": "15,90"
             }
         }
     },
@@ -31,7 +31,7 @@
         "BBSE3": {
             "companyName": "BB SEGURIDADE",
             "indicators": {
-                "DIVIDEND YIELD": "8,96%",
+                "DIVIDEND YIELD": "8,69%",
                 "LPA": "4,35",
                 "ROE": "89,77%",
                 "VPA": "4,85"
@@ -42,7 +42,7 @@
         "BMGB4": {
             "companyName": "BANCO BMG S.A",
             "indicators": {
-                "DIVIDEND YIELD": "10,40%",
+                "DIVIDEND YIELD": "10,03%",
                 "LPA": "0,43",
                 "ROE": "5,81%",
                 "VPA": "7,47"
@@ -53,7 +53,7 @@
         "BRAP4": {
             "companyName": "BRADESPAR",
             "indicators": {
-                "DIVIDEND YIELD": "13,27%",
+                "DIVIDEND YIELD": "12,50%",
                 "LPA": "3,03",
                 "ROE": "14,05%",
                 "VPA": "21,58"
@@ -64,7 +64,7 @@
         "BRBI11": {
             "companyName": "BR PARTNERS",
             "indicators": {
-                "DIVIDEND YIELD": "13,97%",
+                "DIVIDEND YIELD": "13,79%",
                 "LPA": "1,84",
                 "ROE": "24,07%",
                 "VPA": "7,66"
@@ -86,7 +86,7 @@
         "BRSR6": {
             "companyName": "BANCO BANRISUL",
             "indicators": {
-                "DIVIDEND YIELD": "10,02%",
+                "DIVIDEND YIELD": "7,73%",
                 "LPA": "1,78",
                 "ROE": "6,98%",
                 "VPA": "25,47"
@@ -103,7 +103,7 @@
         "CMIG4": {
             "companyName": "CEMIG",
             "indicators": {
-                "DIVIDEND YIELD": "13,98%",
+                "DIVIDEND YIELD": "17,96%",
                 "LPA": "2,49",
                 "ROE": "26,00%",
                 "VPA": "9,57"
@@ -125,7 +125,7 @@
         "CPLE6": {
             "companyName": "COPEL",
             "indicators": {
-                "DIVIDEND YIELD": "3,40%",
+                "DIVIDEND YIELD": "6,94%",
                 "LPA": "0,94",
                 "ROE": "10,94%",
                 "VPA": "8,61"
@@ -153,7 +153,7 @@
         "CSMG3": {
             "companyName": "COPASA",
             "indicators": {
-                "DIVIDEND YIELD": "11,93%",
+                "DIVIDEND YIELD": "7,73%",
                 "LPA": "3,46",
                 "ROE": "16,36%",
                 "VPA": "21,17"
@@ -186,7 +186,7 @@
         "EGIE3": {
             "companyName": "ENGIE BRASIL",
             "indicators": {
-                "DIVIDEND YIELD": "6,77%",
+                "DIVIDEND YIELD": "6,50%",
                 "LPA": "5,24",
                 "ROE": "37,98%",
                 "VPA": "13,81"
@@ -197,7 +197,7 @@
         "FIQE3": {
             "companyName": "UNIFIQUE",
             "indicators": {
-                "DIVIDEND YIELD": "7,04%",
+                "DIVIDEND YIELD": "6,45%",
                 "LPA": "0,48",
                 "ROE": "14,57%",
                 "VPA": "3,31"
@@ -208,10 +208,10 @@
         "GGBR4": {
             "companyName": "GERDAU",
             "indicators": {
-                "DIVIDEND YIELD": "5,31%",
-                "LPA": "2,20",
-                "ROE": "7,88%",
-                "VPA": "27,88"
+                "DIVIDEND YIELD": "5,34%",
+                "LPA": "1,61",
+                "ROE": "5,84%",
+                "VPA": "27,62"
             }
         }
     },
@@ -219,10 +219,10 @@
         "GOAU4": {
             "companyName": "METALURGICA GERDAU",
             "indicators": {
-                "DIVIDEND YIELD": "5,36%",
-                "LPA": "1,55",
-                "ROE": "7,71%",
-                "VPA": "20,04"
+                "DIVIDEND YIELD": "5,41%",
+                "LPA": "1,12",
+                "ROE": "5,74%",
+                "VPA": "19,58"
             }
         }
     },
@@ -242,10 +242,10 @@
         "ISAE4": {
             "companyName": "ISA ENERGIA BRASIL",
             "indicators": {
-                "DIVIDEND YIELD": "10,53%",
-                "LPA": "5,31",
-                "ROE": "17,75%",
-                "VPA": "29,92"
+                "DIVIDEND YIELD": "9,68%",
+                "LPA": "5,42",
+                "ROE": "17,48%",
+                "VPA": "30,98"
             }
         }
     },
@@ -253,7 +253,7 @@
         "ITSA4": {
             "companyName": "ITAUSA INVESTIMENTOS ITAU S.A.",
             "indicators": {
-                "DIVIDEND YIELD": "9,05%",
+                "DIVIDEND YIELD": "8,74%",
                 "LPA": "1,36",
                 "ROE": "16,34%",
                 "VPA": "8,34"
@@ -264,7 +264,7 @@
         "ITUB4": {
             "companyName": "BANCO ITAU UNIBANCO",
             "indicators": {
-                "DIVIDEND YIELD": "7,88%",
+                "DIVIDEND YIELD": "7,42%",
                 "LPA": "3,81",
                 "ROE": "18,57%",
                 "VPA": "20,52"
@@ -286,10 +286,10 @@
         "JHSF3": {
             "companyName": "JHSF",
             "indicators": {
-                "DIVIDEND YIELD": "7,87%",
-                "LPA": "1,26",
+                "DIVIDEND YIELD": "7,43%",
+                "LPA": "1,25",
                 "ROE": "15,78%",
-                "VPA": "7,97"
+                "VPA": "7,95"
             }
         }
     },
@@ -359,10 +359,10 @@
         "PETR4": {
             "companyName": "PETROLEO BRASILEIRO S.A. PETROBRAS",
             "indicators": {
-                "DIVIDEND YIELD": "27,44%",
-                "LPA": "2,81",
+                "DIVIDEND YIELD": "18,45%",
+                "LPA": "2,84",
                 "ROE": "10,00%",
-                "VPA": "28,06"
+                "VPA": "28,40"
             }
         }
     },
@@ -370,7 +370,7 @@
         "PSSA3": {
             "companyName": "PORTO SEGURO",
             "indicators": {
-                "DIVIDEND YIELD": "5,32%",
+                "DIVIDEND YIELD": "5,01%",
                 "LPA": "4,09",
                 "ROE": "18,82%",
                 "VPA": "21,73"
@@ -387,10 +387,10 @@
         "SANB4": {
             "companyName": "BANCO SANTANDER",
             "indicators": {
-                "DIVIDEND YIELD": "5,95%",
-                "LPA": "1,78",
-                "ROE": "11,19%",
-                "VPA": "15,94"
+                "DIVIDEND YIELD": "5,53%",
+                "LPA": "1,87",
+                "ROE": "15,84%",
+                "VPA": "11,81"
             }
         }
     },
@@ -398,7 +398,7 @@
         "SAPR4": {
             "companyName": "CIA SANEAMENTO DO PARANA - SANEPAR",
             "indicators": {
-                "DIVIDEND YIELD": "5,64%",
+                "DIVIDEND YIELD": "5,29%",
                 "LPA": "1,06",
                 "ROE": "14,81%",
                 "VPA": "7,17"
@@ -431,7 +431,7 @@
         "TAEE4": {
             "companyName": "TAESA",
             "indicators": {
-                "DIVIDEND YIELD": "8,25%",
+                "DIVIDEND YIELD": "7,37%",
                 "LPA": "1,64",
                 "ROE": "24,40%",
                 "VPA": "6,71"
@@ -464,10 +464,10 @@
         "VALE3": {
             "companyName": "VALE",
             "indicators": {
-                "DIVIDEND YIELD": "8,84%",
-                "LPA": "6,96",
-                "ROE": "15,28%",
-                "VPA": "45,55"
+                "DIVIDEND YIELD": "9,01%",
+                "LPA": "6,93",
+                "ROE": "15,57%",
+                "VPA": "44,52"
             }
         }
     },
@@ -491,6 +491,17 @@
                 "LPA": "3,36",
                 "ROE": "7,95%",
                 "VPA": "42,24"
+            }
+        }
+    },
+    {
+        "WIZC3": {
+            "companyName": "WIZ",
+            "indicators": {
+                "DIVIDEND YIELD": "4,18%",
+                "LPA": "1,00",
+                "ROE": "29,30%",
+                "VPA": "3,42"
             }
         }
     },
